@@ -1,0 +1,4 @@
+ovmf_code.fd
+ovmf_vars.fd
+smbios_host.bin
+video_bios.rom

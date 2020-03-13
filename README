@@ -1,0 +1,3 @@
+Bash script to run QEMU with an NVIDIA card transferred to a VM.
+
+A video card is taken from the Linux host during a VM lifecycle and is returned back to host once the VM is turned off. This allows running a native-GPU VM on hosts with only a single video card available. The script contains adjustments which might be interesting for those who want to run a Windows VM with near-native CPU and GPU performance with a Linux host running in background.
